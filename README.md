@@ -9,7 +9,7 @@ This is used to record the papers I read during my research including:
 ##### Time Series Forecasting
 
 <!-- 论文名，年份，会议，内容，文章链接，代码链接，解读链接 -->
-| paper | Year | Conference/Journal | Main Idea | Paper Link | Code Link | Personal Interpretation |
+| paper | Year | Conference/Journal | MainIdea | PaperLink | CodeLink | PersonalInterpretation |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | PATHFORMER: MULTI-SCALE TRANSFORMERS WITH ADAPTIVE PATHWAYS FOR TIME SERIES FORECASTING | 2024 | ICLR | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 2 | Row 1 Col 3 |
 | Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 2 | Row 1 Col 3 |
