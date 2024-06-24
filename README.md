@@ -1,5 +1,7 @@
 # Paper_Reading
 
+**Note: Please Check The Details Page.**
+
 This is used to record the papers I read during my research including:
 - Data Mining
     - Time Series Forecasting
